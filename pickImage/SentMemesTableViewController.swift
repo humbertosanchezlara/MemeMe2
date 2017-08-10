@@ -12,10 +12,6 @@ class SentMemesTableViewController: UITableViewController {
     
     var memes : [Meme]!
 
-    override func viewDidLoad() {
-        super.viewDidLoad()
- 
-    }
     
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
@@ -24,11 +20,7 @@ class SentMemesTableViewController: UITableViewController {
         tableView.reloadData()
     }
 
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
-
+  
     // MARK: - Table view data source
 
 

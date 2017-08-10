@@ -6,13 +6,12 @@
 //  Copyright © 2017 Humberto Sanchez. All rights reserved.
 //
 
-import Foundation
 import UIKit
 
 struct Meme {
-    var topText: String
-    var bottomText: String
-    var originalImage : UIImage
-    var memedImage: UIImage
+    let topText: String
+    let bottomText: String
+    let originalImage : UIImage
+    let memedImage: UIImage
     
 }

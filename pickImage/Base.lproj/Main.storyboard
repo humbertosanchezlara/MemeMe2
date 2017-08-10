@@ -225,7 +225,7 @@
         <!--Meme Detail View Controller-->
         <scene sceneID="BNB-qk-fn7">
             <objects>
-                <viewController storyboardIdentifier="MemeDetailVC" autoresizesArchivedViewToFullSize="NO" hidesBottomBarWhenPushed="YES" id="EKd-sl-3tr" customClass="MemeDetailViewController" customModule="pickImage" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="MemeDetailVC" autoresizesArchivedViewToFullSize="NO" id="EKd-sl-3tr" customClass="MemeDetailViewController" customModule="pickImage" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="qCx-cl-HtN"/>
                         <viewControllerLayoutGuide type="bottom" id="gsQ-Ry-REv"/>
